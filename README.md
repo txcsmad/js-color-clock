@@ -8,11 +8,11 @@
 Digital clock that changes color each second according to the hex color code of the current time.
 
 - uses ES6 classes and arrow functions
-- simeple, readable code
+- simple, readable code
 - modular with performance improvements
 
 > **[Live example](https://txcsmad.github.io/js-color-clock)**
-> *Needs a Chrome 48 or higher*
+> *Needs Chrome 48 or higher*
 
 ![http://i.imgur.com/OtGh5na.png](http://i.imgur.com/OtGh5na.png)
 

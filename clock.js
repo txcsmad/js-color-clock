@@ -7,7 +7,7 @@ class Clock {
         this.node = node;
     }
 
-    // start the clock and prepare
+    // starts the clock and prepare
     // to update when necessary
     start() {
         setInterval(_ => { // arrow functions preserve `this`
@@ -21,6 +21,7 @@ class Clock {
         this.current = new Date();
         let d = this.asDisplayString();
         
+        // performance optimization
         if (this.currentStr == d) return;
 
         document.body.style.backgroundColor = this.asColorString();

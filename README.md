@@ -29,7 +29,7 @@ $ git clone https://github.com/txcsmad/js-color-clock.git
 Switch into the directory:
 
 ```
-cd js-color-clock
+$ cd js-color-clock
 ```
 
 Finally, open `index.html` in your browser.

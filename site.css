@@ -1,0 +1,21 @@
+html {
+    /* document fills entire screen height */
+    height: 100%;
+    font-size: 16px;
+}
+
+body {
+    height: 100%;
+
+    font-family: "Roboto", sans-serif;
+    font-size: 3rem;
+    font-weight: 300;
+    
+    /* slightly faded white */
+    color: #ddd; 
+
+    /* center elements in page */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}

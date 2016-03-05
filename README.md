@@ -34,7 +34,7 @@ $ cd js-color-clock
 
 Finally, open `index.html` in your browser.
 
-Or if you have [http-server] installed, run:
+Or if you have [http-server](https://github.com/indexzero/http-server) installed, run:
 
 ```
 $ http-server .
